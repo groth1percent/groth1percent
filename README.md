@@ -35,6 +35,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
 </p>
