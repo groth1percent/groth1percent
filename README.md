@@ -4,7 +4,7 @@
 
 <p align="center">
   Computer Science graduate with experience in software development and data analysis, </br>
-  currently preparing for <b>Equipment Control Software Engineering</b>
+  interested in <b>Industrial Automation and Equipment Control Software Engineering</b>
 </p>
 
 <br>
